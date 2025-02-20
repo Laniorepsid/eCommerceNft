@@ -92,12 +92,12 @@ npm install
 Execute the following command in order to run the development server locally:
 
 ```bash
-npm run dev
+npm start
 ```
 
 **Step 4:**
 
-Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+Open [http://localhost:5173](http://localhost:3000) with your browser to see the result.
 
 ### 📜 Scripts
 
@@ -106,7 +106,7 @@ All scripts are defined in the `package.json` file. Here is a list of all script
 | Script             | Action                                      |
 | :----------------- | :------------------------------------------ |
 | `npm install`      | Installs dependencies                       |
-| `npm run dev`      | Starts local dev server at `localhost:5137` |
+| `npm start`      | Starts local dev server at `localhost:3000` |
 | `npm run build`    | Build your production site to `./dist/`     |
 | `npm run preview`  | Boot up a local static web server           |
 | `npm run lint`     | Run ESLint                                  |
