@@ -1,4 +1,4 @@
-                               # Project Flowchart
+# Project Flowchart
 
 ## 📝 Description
 The objective of our project is to replace the Physical/Digital warranty or ownership card by a blockchain based decaying warranty via NFTs which will ensure Transparency, Authenticity, and more Security. The method facilitates conversion of physical product warranty cards into decaying NFTs using ERC721
@@ -75,7 +75,7 @@ variables in `.env` file.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/reactjs18-3d-portfolio.git
+git clone https://github.com/Laniorepsid/eCommerceNft.git
 ```
 
 **Step 2:**
